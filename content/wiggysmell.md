@@ -1,8 +1,8 @@
 ---
 title: "wiggysmell"
 date: "2025-2-18"
-official: True
-featured: True
+official: False
+featured: False
 excerpt: "Our Mission at Teracast Networks."
 category: "Official"
 tags: ["Official", "News", "Teracast Networks"]
