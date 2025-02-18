@@ -12,4 +12,9 @@ authorImage: "https://cdn.discordapp.com/avatars/783394152825225249/83dff0b3ce6d
 authorBio: "CEO @ Teracast Networks LLC"
 ---
 
+Notes for above. Official should only be True if you are a Teracast Networks LLC staff member. 
+Featured should only be turned on by Teracast Networks LLC members.
+
+If those features above are abused, the pull request will be rejected.
+
 Basic Markdown
