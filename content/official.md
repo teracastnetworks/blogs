@@ -2,7 +2,7 @@
 title: "Empowering Digital Infrastructure @ Teracast Networks"
 date: "2025-2-18"
 official: True
-featured: True
+featured: False
 excerpt: "Our Mission at Teracast Networks."
 category: "Official"
 tags: ["Official", "News", "Teracast Networks"]
